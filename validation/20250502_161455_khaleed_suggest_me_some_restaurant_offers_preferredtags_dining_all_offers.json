@@ -1,0 +1,108 @@
+{
+    "user_name": "khaleed",
+    "query": "suggest me some restaurant offers",
+    "query_category": "preferredtags_dining",
+    "timestamp": "2025-05-02T16:14:55.213432",
+    "total_offers": 3,
+    "offers": [
+        {
+            "user_name": "khaleed",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:55.208433",
+            "offer_id": "309559",
+            "offer_title": "Abu Aljedi Sweets",
+            "total_merchant_tags": 6,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "mittai-shop-or-sweet-shop",
+                "bakery",
+                "cakes",
+                "fast-food",
+                "cafe",
+                "general"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "khaleed",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:55.208433",
+            "offer_id": "25463",
+            "offer_title": "Al Mahatta Cafe - Sheraton Sharjah Beach Resort & Spa",
+            "total_merchant_tags": 12,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "afternoon-tea",
+                "live-entertainment",
+                "fine-dining",
+                "wheelchair-access",
+                "modern-design",
+                "international-cuisine",
+                "buffet",
+                "valet-parking",
+                "outdoor-seating",
+                "cafe",
+                "booking-and-reservations",
+                "wifi"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "khaleed",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:55.212470",
+            "offer_id": "25605",
+            "offer_title": "Link Sheraton Cafe - Sheraton Sharjah Beach Resort & Spa",
+            "total_merchant_tags": 12,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "vegan",
+                "gluten-free",
+                "affordable",
+                "wheelchair-access",
+                "modern-design",
+                "valet-parking",
+                "cafe",
+                "wifi",
+                "general",
+                "breakfast",
+                "delivery-services",
+                "large-group-friendly"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        }
+    ]
+}

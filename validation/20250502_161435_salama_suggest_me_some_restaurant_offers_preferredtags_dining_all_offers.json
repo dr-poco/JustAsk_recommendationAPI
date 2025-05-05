@@ -1,0 +1,686 @@
+{
+    "user_name": "salama",
+    "query": "suggest me some restaurant offers",
+    "query_category": "preferredtags_dining",
+    "timestamp": "2025-05-02T16:14:35.286549",
+    "total_offers": 22,
+    "offers": [
+        {
+            "user_name": "salama",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:35.281556",
+            "offer_id": "350008",
+            "offer_title": "Bach Cafe",
+            "total_merchant_tags": 7,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "cafe",
+                "basic-design",
+                "wifi",
+                "general",
+                "average-pricing",
+                "breakfast",
+                "large-group-friendly"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "salama",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:35.281556",
+            "offer_id": "325799",
+            "offer_title": "Galleria Cafe",
+            "total_merchant_tags": 11,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "meat",
+                "thai-cuisine",
+                "poultry",
+                "coffee",
+                "sandwiches",
+                "fast-casual-dining",
+                "lunch-and-dinner",
+                "buffet",
+                "cafe",
+                "basic-design",
+                "breakfast"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "salama",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:35.281556",
+            "offer_id": "337219",
+            "offer_title": "Emirati Coffee",
+            "total_merchant_tags": 5,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "other-design",
+                "cafe",
+                "wifi",
+                "general",
+                "breakfast"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "salama",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:35.281556",
+            "offer_id": "334993",
+            "offer_title": "911 Cafe",
+            "total_merchant_tags": 8,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "outdoor-seating",
+                "cafe",
+                "basic-design",
+                "general",
+                "average-pricing",
+                "breakfast",
+                "delivery-services",
+                "large-group-friendly"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "salama",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:35.281556",
+            "offer_id": "325800",
+            "offer_title": "Galleria Restaurant & Cafe - Al Mina Center",
+            "total_merchant_tags": 5,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "cafe",
+                "basic-design",
+                "wifi",
+                "general",
+                "average-pricing"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "salama",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:35.281556",
+            "offer_id": "309560",
+            "offer_title": "Socius Bakery & Cafe",
+            "total_merchant_tags": 8,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "outdoor-seating",
+                "cafe",
+                "basic-design",
+                "general",
+                "average-pricing",
+                "breakfast",
+                "delivery-services",
+                "large-group-friendly"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "salama",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:35.281556",
+            "offer_id": "81013",
+            "offer_title": "Notes Cafe",
+            "total_merchant_tags": 7,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "modern-design",
+                "cafe",
+                "general",
+                "average-pricing",
+                "breakfast",
+                "delivery-services",
+                "large-group-friendly"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "salama",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:35.282546",
+            "offer_id": "259559",
+            "offer_title": "Cafe Arabia",
+            "total_merchant_tags": 12,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "tea",
+                "coffee",
+                "other-design",
+                "affordable",
+                "middle-eastern-cuisine",
+                "arabian-cuisine",
+                "online-order",
+                "outdoor-seating",
+                "cafe",
+                "booking-and-reservations",
+                "wifi",
+                "breakfast"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "salama",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:35.282546",
+            "offer_id": "309558",
+            "offer_title": "Al Sultan Sweets",
+            "total_merchant_tags": 6,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "mittai-shop-or-sweet-shop",
+                "bakery",
+                "cakes",
+                "fast-food",
+                "cafe",
+                "general"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "salama",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:35.282546",
+            "offer_id": "277410",
+            "offer_title": "Pizza Zone",
+            "total_merchant_tags": 8,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "pizza",
+                "fast-food",
+                "affordable",
+                "online-order",
+                "cafe",
+                "basic-design",
+                "general",
+                "delivery-services"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "salama",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:35.282546",
+            "offer_id": "219493",
+            "offer_title": "The D Secrets",
+            "total_merchant_tags": 6,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "mittai-shop-or-sweet-shop",
+                "bakery",
+                "cakes",
+                "fast-food",
+                "cafe",
+                "general"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "salama",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:35.283545",
+            "offer_id": "317221",
+            "offer_title": "Crane Speciality Coffee",
+            "total_merchant_tags": 6,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "pastries",
+                "coffee",
+                "business-meeting",
+                "cafe",
+                "basic-design",
+                "general"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "salama",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:35.284547",
+            "offer_id": "319833",
+            "offer_title": "No. Fifty Seven Boutique Cafe",
+            "total_merchant_tags": 12,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "dessert",
+                "air-conditioned",
+                "sandwiches",
+                "pizza",
+                "tv",
+                "premium",
+                "cafe",
+                "basic-design",
+                "wifi",
+                "general",
+                "breakfast",
+                "large-group-friendly"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "salama",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:35.284547",
+            "offer_id": "315172",
+            "offer_title": "Marina Cafe - Western Hotel Ghayathi",
+            "total_merchant_tags": 4,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "cafe",
+                "general",
+                "average-pricing",
+                "breakfast"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "salama",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:35.285546",
+            "offer_id": "25556",
+            "offer_title": "Orchid Lounge - Dusit Thani Abu Dhabi",
+            "total_merchant_tags": 12,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "ethnic-design",
+                "fast-food",
+                "premium",
+                "wheelchair-access",
+                "serves-alcohol-full-bar",
+                "outdoor-seating",
+                "cafe",
+                "booking-and-reservations",
+                "wifi",
+                "general",
+                "breakfast",
+                "delivery-services"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "salama",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:35.285546",
+            "offer_id": "222254",
+            "offer_title": "Latest Recipe - Le Meridien Abu Dhabi",
+            "total_merchant_tags": 12,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "european-cuisine",
+                "live-cooking",
+                "brunch",
+                "private-dining",
+                "other-design",
+                "italian-cuisine",
+                "serves-alcohol-full-bar",
+                "buffet",
+                "valet-parking",
+                "outdoor-seating",
+                "cafe",
+                "booking-and-reservations"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "salama",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:35.285546",
+            "offer_id": "314024",
+            "offer_title": "Boomah The Owl Cafe",
+            "total_merchant_tags": 8,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "cakes",
+                "tv",
+                "modern-design",
+                "cafe",
+                "general",
+                "average-pricing",
+                "breakfast",
+                "large-group-friendly"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "salama",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:35.286549",
+            "offer_id": "25570",
+            "offer_title": "Cafe Trottoir - City Seasons Al Hamra Abu Dhabi",
+            "total_merchant_tags": 6,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "modern-design",
+                "cafe",
+                "wifi",
+                "general",
+                "average-pricing",
+                "breakfast"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "salama",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:35.286549",
+            "offer_id": "317229",
+            "offer_title": "Orros Coffee",
+            "total_merchant_tags": 6,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "pastries",
+                "coffee",
+                "business-meeting",
+                "cafe",
+                "basic-design",
+                "general"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "salama",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:35.286549",
+            "offer_id": "222253",
+            "offer_title": "Al Finjan Lobby Lounge - Le Meridien Abu Dhabi",
+            "total_merchant_tags": 9,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "cakes",
+                "fine-dining",
+                "classical-design",
+                "sandwiches",
+                "valet-parking",
+                "cafe",
+                "wifi",
+                "general",
+                "breakfast"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "salama",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:35.286549",
+            "offer_id": "315174",
+            "offer_title": "Olive Tree Cafe - Western Hotel Liwa",
+            "total_merchant_tags": 6,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "pastries",
+                "coffee",
+                "business-meeting",
+                "cafe",
+                "basic-design",
+                "general"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "salama",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:35.286549",
+            "offer_id": "315175",
+            "offer_title": "Blue Water Cafe - Western Hotel Liwa",
+            "total_merchant_tags": 7,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "poolside-dining",
+                "24-by-7",
+                "fast-casual-dining",
+                "cafe",
+                "general",
+                "average-pricing",
+                "breakfast"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        }
+    ]
+}

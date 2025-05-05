@@ -1,0 +1,368 @@
+{
+    "user_name": "wael",
+    "query": "suggest me some restaurant offers",
+    "query_category": "preferredtags_dining",
+    "timestamp": "2025-05-02T16:14:12.677668",
+    "total_offers": 12,
+    "offers": [
+        {
+            "user_name": "wael",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:12.671631",
+            "offer_id": "315178",
+            "offer_title": "Baker Street",
+            "total_merchant_tags": 12,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "chicken",
+                "tea",
+                "salads",
+                "friendly-staff",
+                "coffee",
+                "desserts",
+                "sandwiches",
+                "kid-friendly",
+                "fast-casual-dining",
+                "online-order",
+                "outdoor-seating",
+                "cafe"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:12.671631",
+            "offer_id": "305062",
+            "offer_title": "Stay Bakery & Cafe",
+            "total_merchant_tags": 6,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "bakery",
+                "desserts",
+                "fast-casual-dining",
+                "cafe",
+                "general",
+                "average-pricing"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:12.671631",
+            "offer_id": "315182",
+            "offer_title": "Yoyo Station Cafe",
+            "total_merchant_tags": 5,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "fast-casual-dining",
+                "online-order",
+                "cafe",
+                "general",
+                "delivery-services"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:12.672630",
+            "offer_id": "352285",
+            "offer_title": "Sustainabite Cafe",
+            "total_merchant_tags": 5,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "other-design",
+                "cafe",
+                "wifi",
+                "general",
+                "breakfast"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:12.673629",
+            "offer_id": "320359",
+            "offer_title": "Bliss'd Coffee and Juice Bar",
+            "total_merchant_tags": 6,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "juices",
+                "fast-casual-dining",
+                "cafe",
+                "general",
+                "average-pricing",
+                "breakfast"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:12.673629",
+            "offer_id": "302263",
+            "offer_title": "Roll Baby Roll",
+            "total_merchant_tags": 5,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "cafe",
+                "basic-design",
+                "wifi",
+                "general",
+                "average-pricing"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:12.674629",
+            "offer_id": "92161",
+            "offer_title": "Cafe Social - Mercure Hotel Barsha Heights",
+            "total_merchant_tags": 11,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "salads",
+                "american-cuisine",
+                "italian-cuisine",
+                "modern-design",
+                "international-cuisine",
+                "valet-parking",
+                "arabian-cuisine",
+                "cafe",
+                "average-pricing",
+                "breakfast",
+                "large-group-friendly"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:12.674629",
+            "offer_id": "302264",
+            "offer_title": "Butter Chicken & Co.",
+            "total_merchant_tags": 5,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "local-cuisine",
+                "fast-food",
+                "cafe",
+                "basic-design",
+                "average-pricing"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:12.674629",
+            "offer_id": "325810",
+            "offer_title": "Moka Cafe - Villa Rotana",
+            "total_merchant_tags": 5,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "cafe",
+                "basic-design",
+                "wifi",
+                "general",
+                "average-pricing"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:12.675628",
+            "offer_id": "305929",
+            "offer_title": "Caramalize",
+            "total_merchant_tags": 12,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "dessert-parlour",
+                "food",
+                "dining",
+                "bakery",
+                "chain-outlet",
+                "cakes",
+                "kid-friendly",
+                "affordable",
+                "online-order",
+                "cafe",
+                "general",
+                "delivery-services"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:12.675628",
+            "offer_id": "325797",
+            "offer_title": "Kata",
+            "total_merchant_tags": 7,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "ice-cream",
+                "food-and-beverages",
+                "local-cuisine",
+                "desserts",
+                "cafe",
+                "basic-design",
+                "average-pricing"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some restaurant offers",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T16:14:12.677668",
+            "offer_id": "325805",
+            "offer_title": "Arte Fine Arte Cakes & Coffee Shop",
+            "total_merchant_tags": 4,
+            "total_user_tags": 0,
+            "exact_matches": [],
+            "partial_matches": [],
+            "unmatched_user_tags": [],
+            "unmatched_merchant_tags": [
+                "bakery",
+                "cafe",
+                "general",
+                "delivery-services"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 0,
+                "partial_match_count": 0,
+                "exact_match_percentage": 0.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.0
+            },
+            "match_explanation": "This offer was recommended based on general preferences as no specific tag matches were found."
+        }
+    ]
+}

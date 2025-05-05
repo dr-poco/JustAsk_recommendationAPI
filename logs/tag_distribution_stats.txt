@@ -1,0 +1,50 @@
+--- Tag Distribution Statistics ---
+
+Category: apparel and accessories
+Number of offers: 24
+Common tags (16): accessories-store, footwear-store, casual-shoes, sandals, large-product-range...
+Avg differentiating tags per offer: 10.4
+Min differentiating tags: 4
+Max differentiating tags: 12
+
+Category: dining
+Number of offers: 255
+Common tags (6): accepts-cards, couple-friendly, dine-in, restaurant, casual-dining...
+Avg differentiating tags per offer: 8.0
+Min differentiating tags: 2
+Max differentiating tags: 12
+
+Category: entertainment
+Number of offers: 14
+Common tags (1): sports-and-recreation...
+Avg differentiating tags per offer: 3.6
+Min differentiating tags: 1
+Max differentiating tags: 6
+
+Category: miscellaneous stores
+Number of offers: 2
+Common tags (4): online, e-commerce, business, distributor-and-dealers...
+Avg differentiating tags per offer: 0.0
+Min differentiating tags: 0
+Max differentiating tags: 0
+
+Category: personal service providers
+Number of offers: 36
+No common tags
+Avg differentiating tags per offer: 5.2
+Min differentiating tags: 2
+Max differentiating tags: 12
+
+Category: retail stores
+Number of offers: 59
+Common tags (3): online-and-in-store, regular-retail-store, basic-service...
+Avg differentiating tags per offer: 8.6
+Min differentiating tags: 3
+Max differentiating tags: 12
+
+Category: travel
+Number of offers: 29
+Common tags (33): airport-transportation, shuttle-service, swimming-pool, room-service, tv...
+Avg differentiating tags per offer: 10.9
+Min differentiating tags: 3
+Max differentiating tags: 12

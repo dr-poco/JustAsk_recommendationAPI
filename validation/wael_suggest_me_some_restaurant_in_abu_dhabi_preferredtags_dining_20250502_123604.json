@@ -1,0 +1,256 @@
+{
+    "user_name": "wael",
+    "query": "suggest me some restaurant in abu dhabi",
+    "query_category": "preferredtags_dining",
+    "timestamp": "2025-05-02T12:36:03.941866",
+    "total_merchant_tags": 155,
+    "total_user_tags": 15,
+    "exact_matches": [
+        {
+            "user_tag": "outdoor-seating",
+            "merchant_tag": "outdoor-seating",
+            "similarity_score": 1.0
+        },
+        {
+            "user_tag": "large-group-friendly",
+            "merchant_tag": "large-group-friendly",
+            "similarity_score": 1.0
+        },
+        {
+            "user_tag": "fine-dining",
+            "merchant_tag": "fine-dining",
+            "similarity_score": 1.0
+        },
+        {
+            "user_tag": "average-pricing",
+            "merchant_tag": "average-pricing",
+            "similarity_score": 1.0
+        },
+        {
+            "user_tag": "booking-and-reservations",
+            "merchant_tag": "booking-and-reservations",
+            "similarity_score": 1.0
+        },
+        {
+            "user_tag": "international-cuisine",
+            "merchant_tag": "international-cuisine",
+            "similarity_score": 1.0
+        },
+        {
+            "user_tag": "fast-food",
+            "merchant_tag": "fast-food",
+            "similarity_score": 1.0
+        },
+        {
+            "user_tag": "buffet",
+            "merchant_tag": "buffet",
+            "similarity_score": 1.0
+        },
+        {
+            "user_tag": "brunch",
+            "merchant_tag": "brunch",
+            "similarity_score": 1.0
+        },
+        {
+            "user_tag": "italian-cuisine",
+            "merchant_tag": "italian-cuisine",
+            "similarity_score": 1.0
+        },
+        {
+            "user_tag": "pasta",
+            "merchant_tag": "pasta",
+            "similarity_score": 1.0
+        },
+        {
+            "user_tag": "european-cuisine",
+            "merchant_tag": "european-cuisine",
+            "similarity_score": 1.0
+        },
+        {
+            "user_tag": "pizza",
+            "merchant_tag": "pizza",
+            "similarity_score": 1.0
+        }
+    ],
+    "partial_matches": [
+        {
+            "user_tag": "caf\u00e9",
+            "merchant_tag": "cafe",
+            "similarity_score": 0.75
+        },
+        {
+            "user_tag": "fine-dining",
+            "merchant_tag": "private-dining",
+            "similarity_score": 0.72
+        },
+        {
+            "user_tag": "international-cuisine",
+            "merchant_tag": "internationa-cuisine",
+            "similarity_score": 0.975609756097561
+        },
+        {
+            "user_tag": "brunch",
+            "merchant_tag": "lunch",
+            "similarity_score": 0.7272727272727273
+        },
+        {
+            "user_tag": "italian-cuisine",
+            "merchant_tag": "iranian-cuisine",
+            "similarity_score": 0.8666666666666667
+        },
+        {
+            "user_tag": "european-cuisine",
+            "merchant_tag": "german-cuisine",
+            "similarity_score": 0.8
+        }
+    ],
+    "unmatched_user_tags": [
+        "caf\u00e9",
+        "live-entertainment"
+    ],
+    "unmatched_merchant_tags": [
+        "country-design",
+        "indo-chinese",
+        "turkish-cuisine",
+        "asian-cuisine",
+        "suite",
+        "dinner",
+        "syrian-cuisine",
+        "wifi",
+        "monument",
+        "lounge",
+        "basic-design",
+        "steak-house",
+        "ice-cream",
+        "live-music",
+        "coffee",
+        "dine-with-a-view",
+        "bakery",
+        "luxury-dining",
+        "middle-eastern-cuisine",
+        "adjoining-room",
+        "halal",
+        "casual-dining",
+        "emiriti",
+        "marriott",
+        "business-center",
+        "beers",
+        "air-conditioned",
+        "business-meeting",
+        "millennium",
+        "momos",
+        "sushi",
+        "hot-tub",
+        "spacious-bathrooms",
+        "online-order",
+        "general",
+        "pastries",
+        "mandi-cuisine",
+        "food-stall",
+        "clean-rooms",
+        "local-cuisine",
+        "other-design",
+        "modern-design",
+        "live-cooking",
+        "concierge",
+        "serves-alcohol-full-bar",
+        "all-day-dining",
+        "lebanese-cuisine",
+        "chinese-cuisine",
+        "happy-hours",
+        "late-night-dining",
+        "vegetarian-friendly",
+        "biryani",
+        "allergy-free-room",
+        "security",
+        "fast-casual-dining",
+        "beachfront",
+        "valetparking",
+        "australian-cuisine",
+        "kerala-cuisine",
+        "bars-and-pubs",
+        "chocolates",
+        "cards-only",
+        "poolside-dining",
+        "luxury",
+        "cakes",
+        "gluten-free",
+        "arabian-cuisine",
+        "premium",
+        "tv",
+        "luxury-hotel",
+        "drive-thru",
+        "king-room",
+        "highchair-available",
+        "kid-friendly",
+        "north-indian-cuisine",
+        "ethnic-design",
+        "tour-desk",
+        "egyptian-cuisine",
+        "vegetarian-friendl",
+        "parking-available",
+        "burger",
+        "fishing",
+        "hookah",
+        "valet-parking",
+        "lunch-and-dinner",
+        "spacious-rooms",
+        "salads",
+        "meat",
+        "tea",
+        "vegetarian-restaurant",
+        "affordable",
+        "industrial-design",
+        "finger-food",
+        "contemporary",
+        "beach",
+        "curry",
+        "afghani-cuisine",
+        "parks-and-gardens",
+        "chain-outlet",
+        "dine-in",
+        "kitchenette",
+        "classical-design",
+        "continental-cuisine",
+        "delivery-services",
+        "mediterranean-cuisine",
+        "24-by-7",
+        "thai-cuisine",
+        "vegan",
+        "maharastrian-cuisine",
+        "south-indian-cuisine",
+        "validated-parking",
+        "restaurant",
+        "refrigerator",
+        "breakfast",
+        "hamburgers",
+        "food-and-beverages",
+        "seafood",
+        "suitable-for-family",
+        "wheelchair-access",
+        "japanese-cuisine",
+        "dessert",
+        "friendly-staff",
+        "mittai-shop-or-sweet-shop",
+        "marine-life",
+        "chicken",
+        "american-cuisine",
+        "sandwiches",
+        "burgers",
+        "wines",
+        "desserts",
+        "indian-cuisine",
+        "morroccan-cuisine",
+        "poultry",
+        "lunch-and-dineer",
+        "soups",
+        "indian-cusine"
+    ],
+    "matching_metrics": {
+        "exact_match_count": 13,
+        "partial_match_count": 6,
+        "exact_match_percentage": 86.66666666666667,
+        "partial_match_percentage": 40.0,
+        "overall_match_score": 1.1466666666666667
+    }
+}

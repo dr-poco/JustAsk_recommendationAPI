@@ -1,0 +1,666 @@
+{
+    "user_name": "Karthik",
+    "query": "suggest me some dining options in dubai",
+    "query_category": "preferredtags_dining",
+    "timestamp": "2025-05-02T13:35:48.576256",
+    "total_offers": 15,
+    "offers": [
+        {
+            "user_name": "Karthik",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:35:48.539324",
+            "offer_id": "302272",
+            "offer_title": "Chow Me In",
+            "total_merchant_tags": 6,
+            "total_user_tags": 6,
+            "exact_matches": [
+                {
+                    "user_tag": "chinese-cuisine",
+                    "merchant_tag": "chinese-cuisine",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "indian-cuisine",
+                    "merchant_tag": "asian-cuisine",
+                    "similarity_score": 0.8148148148148148
+                }
+            ],
+            "unmatched_user_tags": [
+                "suitable-for-family",
+                "kids-and-family",
+                "seafood",
+                "indian-cuisine",
+                "themed-restaurant"
+            ],
+            "unmatched_merchant_tags": [
+                "thai-cuisine",
+                "indo-chinese",
+                "average-pricing",
+                "delivery-services"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 1,
+                "exact_match_percentage": 16.666666666666664,
+                "partial_match_percentage": 16.666666666666664,
+                "overall_match_score": 0.2833333333333333
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'chinese-cuisine'; Partial tag matches: 'indian-cuisine' (similar to 'asian-cuisine' with 0.81 similarity)"
+        },
+        {
+            "user_name": "Karthik",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:35:48.541322",
+            "offer_id": "302273",
+            "offer_title": "Punjab Bistro",
+            "total_merchant_tags": 12,
+            "total_user_tags": 6,
+            "exact_matches": [
+                {
+                    "user_tag": "indian-cuisine",
+                    "merchant_tag": "indian-cuisine",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [],
+            "unmatched_user_tags": [
+                "suitable-for-family",
+                "kids-and-family",
+                "chinese-cuisine",
+                "seafood",
+                "themed-restaurant"
+            ],
+            "unmatched_merchant_tags": [
+                "kebabs",
+                "biryani",
+                "momos",
+                "curry",
+                "north-indian-cuisine",
+                "poultry",
+                "live-music",
+                "private-dining",
+                "valet-parking",
+                "online-order",
+                "outdoor-seating"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 0,
+                "exact_match_percentage": 16.666666666666664,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.16666666666666666
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'indian-cuisine'"
+        },
+        {
+            "user_name": "Karthik",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:35:48.541322",
+            "offer_id": "305060",
+            "offer_title": "The Coop House",
+            "total_merchant_tags": 7,
+            "total_user_tags": 6,
+            "exact_matches": [
+                {
+                    "user_tag": "seafood",
+                    "merchant_tag": "seafood",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [],
+            "unmatched_user_tags": [
+                "suitable-for-family",
+                "kids-and-family",
+                "chinese-cuisine",
+                "indian-cuisine",
+                "themed-restaurant"
+            ],
+            "unmatched_merchant_tags": [
+                "kid-friendly",
+                "basic-design",
+                "general",
+                "average-pricing",
+                "breakfast",
+                "large-group-friendly"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 0,
+                "exact_match_percentage": 16.666666666666664,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.16666666666666666
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'seafood'"
+        },
+        {
+            "user_name": "Karthik",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:35:48.547899",
+            "offer_id": "302268",
+            "offer_title": "One Square Meal",
+            "total_merchant_tags": 12,
+            "total_user_tags": 6,
+            "exact_matches": [
+                {
+                    "user_tag": "indian-cuisine",
+                    "merchant_tag": "indian-cuisine",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [],
+            "unmatched_user_tags": [
+                "suitable-for-family",
+                "kids-and-family",
+                "chinese-cuisine",
+                "seafood",
+                "themed-restaurant"
+            ],
+            "unmatched_merchant_tags": [
+                "kebabs",
+                "biryani",
+                "momos",
+                "curry",
+                "north-indian-cuisine",
+                "poultry",
+                "live-music",
+                "private-dining",
+                "valet-parking",
+                "online-order",
+                "outdoor-seating"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 0,
+                "exact_match_percentage": 16.666666666666664,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.16666666666666666
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'indian-cuisine'"
+        },
+        {
+            "user_name": "Karthik",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:35:48.555740",
+            "offer_id": "302262",
+            "offer_title": "Biryani Bistro",
+            "total_merchant_tags": 9,
+            "total_user_tags": 6,
+            "exact_matches": [
+                {
+                    "user_tag": "indian-cuisine",
+                    "merchant_tag": "indian-cuisine",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [],
+            "unmatched_user_tags": [
+                "suitable-for-family",
+                "kids-and-family",
+                "chinese-cuisine",
+                "seafood",
+                "themed-restaurant"
+            ],
+            "unmatched_merchant_tags": [
+                "biryani",
+                "north-indian-cuisine",
+                "online-order",
+                "outdoor-seating",
+                "basic-design",
+                "booking-and-reservations",
+                "average-pricing",
+                "delivery-services"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 0,
+                "exact_match_percentage": 16.666666666666664,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.16666666666666666
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'indian-cuisine'"
+        },
+        {
+            "user_name": "Karthik",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:35:48.556738",
+            "offer_id": "302265",
+            "offer_title": "Yum Momos",
+            "total_merchant_tags": 6,
+            "total_user_tags": 6,
+            "exact_matches": [
+                {
+                    "user_tag": "indian-cuisine",
+                    "merchant_tag": "indian-cuisine",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [],
+            "unmatched_user_tags": [
+                "suitable-for-family",
+                "kids-and-family",
+                "chinese-cuisine",
+                "seafood",
+                "themed-restaurant"
+            ],
+            "unmatched_merchant_tags": [
+                "fast-food",
+                "online-order",
+                "outdoor-seating",
+                "average-pricing",
+                "delivery-services"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 0,
+                "exact_match_percentage": 16.666666666666664,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.16666666666666666
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'indian-cuisine'"
+        },
+        {
+            "user_name": "Karthik",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:35:48.558636",
+            "offer_id": "330722",
+            "offer_title": "Kebab Khodmooni Restaurant",
+            "total_merchant_tags": 5,
+            "total_user_tags": 6,
+            "exact_matches": [
+                {
+                    "user_tag": "indian-cuisine",
+                    "merchant_tag": "indian-cuisine",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [],
+            "unmatched_user_tags": [
+                "suitable-for-family",
+                "kids-and-family",
+                "chinese-cuisine",
+                "seafood",
+                "themed-restaurant"
+            ],
+            "unmatched_merchant_tags": [
+                "middle-eastern-cuisine",
+                "arabian-cuisine",
+                "average-pricing",
+                "large-group-friendly"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 0,
+                "exact_match_percentage": 16.666666666666664,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.16666666666666666
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'indian-cuisine'"
+        },
+        {
+            "user_name": "Karthik",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:35:48.560889",
+            "offer_id": "25589",
+            "offer_title": "Masalawok Restaurant",
+            "total_merchant_tags": 8,
+            "total_user_tags": 6,
+            "exact_matches": [
+                {
+                    "user_tag": "indian-cuisine",
+                    "merchant_tag": "indian-cuisine",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [],
+            "unmatched_user_tags": [
+                "suitable-for-family",
+                "kids-and-family",
+                "chinese-cuisine",
+                "seafood",
+                "themed-restaurant"
+            ],
+            "unmatched_merchant_tags": [
+                "noodles",
+                "soups",
+                "other-design",
+                "online-order",
+                "average-pricing",
+                "delivery-services",
+                "large-group-friendly"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 0,
+                "exact_match_percentage": 16.666666666666664,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.16666666666666666
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'indian-cuisine'"
+        },
+        {
+            "user_name": "Karthik",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:35:48.561889",
+            "offer_id": "25535",
+            "offer_title": "Soy To Chutney",
+            "total_merchant_tags": 12,
+            "total_user_tags": 6,
+            "exact_matches": [
+                {
+                    "user_tag": "chinese-cuisine",
+                    "merchant_tag": "chinese-cuisine",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "seafood",
+                    "merchant_tag": "seafood",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "indian-cuisine",
+                    "merchant_tag": "indian-cuisine",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "themed-restaurant",
+                    "merchant_tag": "themed-restaurant",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [],
+            "unmatched_user_tags": [
+                "suitable-for-family",
+                "kids-and-family"
+            ],
+            "unmatched_merchant_tags": [
+                "curry",
+                "north-indian-cuisine",
+                "poultry",
+                "friendly-staff",
+                "air-conditioned",
+                "kid-friendly",
+                "online-order",
+                "basic-design"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 4,
+                "partial_match_count": 0,
+                "exact_match_percentage": 66.66666666666666,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.6666666666666666
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'chinese-cuisine', 'seafood', 'indian-cuisine', 'themed-restaurant'"
+        },
+        {
+            "user_name": "Karthik",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:35:48.562895",
+            "offer_id": "277414",
+            "offer_title": "Shamiana - Taj Jumeirah Lake Towers",
+            "total_merchant_tags": 12,
+            "total_user_tags": 6,
+            "exact_matches": [
+                {
+                    "user_tag": "indian-cuisine",
+                    "merchant_tag": "indian-cuisine",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [],
+            "unmatched_user_tags": [
+                "suitable-for-family",
+                "kids-and-family",
+                "chinese-cuisine",
+                "seafood",
+                "themed-restaurant"
+            ],
+            "unmatched_merchant_tags": [
+                "luxury-dining",
+                "highchair-available",
+                "live-music",
+                "classical-design",
+                "vegan",
+                "american-cuisine",
+                "brunch",
+                "vegetarian-friendly",
+                "luxury",
+                "wheelchair-access",
+                "lunch-and-dinner"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 0,
+                "exact_match_percentage": 16.666666666666664,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.16666666666666666
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'indian-cuisine'"
+        },
+        {
+            "user_name": "Karthik",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:35:48.562895",
+            "offer_id": "352355",
+            "offer_title": "Farideh Restaurant",
+            "total_merchant_tags": 4,
+            "total_user_tags": 6,
+            "exact_matches": [
+                {
+                    "user_tag": "indian-cuisine",
+                    "merchant_tag": "indian-cuisine",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [],
+            "unmatched_user_tags": [
+                "suitable-for-family",
+                "kids-and-family",
+                "chinese-cuisine",
+                "seafood",
+                "themed-restaurant"
+            ],
+            "unmatched_merchant_tags": [
+                "afghani-cuisine",
+                "lunch-and-dinner",
+                "middle-eastern-cuisine"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 0,
+                "exact_match_percentage": 16.666666666666664,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.16666666666666666
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'indian-cuisine'"
+        },
+        {
+            "user_name": "Karthik",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:35:48.562895",
+            "offer_id": "25581",
+            "offer_title": "Karachi Grill",
+            "total_merchant_tags": 12,
+            "total_user_tags": 6,
+            "exact_matches": [
+                {
+                    "user_tag": "indian-cuisine",
+                    "merchant_tag": "indian-cuisine",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [],
+            "unmatched_user_tags": [
+                "suitable-for-family",
+                "kids-and-family",
+                "chinese-cuisine",
+                "seafood",
+                "themed-restaurant"
+            ],
+            "unmatched_merchant_tags": [
+                "pakistani-cuisine",
+                "north-indian-cuisine",
+                "cakes",
+                "kid-friendly",
+                "private-dining",
+                "wheelchair-access",
+                "modern-design",
+                "buffet",
+                "outdoor-seating",
+                "booking-and-reservations",
+                "wifi"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 0,
+                "exact_match_percentage": 16.666666666666664,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.16666666666666666
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'indian-cuisine'"
+        },
+        {
+            "user_name": "Karthik",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:35:48.571150",
+            "offer_id": "330720",
+            "offer_title": "Didon Restaurant - Ramada By Wyndham Dubai Barsha Heights",
+            "total_merchant_tags": 4,
+            "total_user_tags": 6,
+            "exact_matches": [
+                {
+                    "user_tag": "indian-cuisine",
+                    "merchant_tag": "indian-cuisine",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [],
+            "unmatched_user_tags": [
+                "suitable-for-family",
+                "kids-and-family",
+                "chinese-cuisine",
+                "seafood",
+                "themed-restaurant"
+            ],
+            "unmatched_merchant_tags": [
+                "afghani-cuisine",
+                "lunch-and-dinner",
+                "middle-eastern-cuisine"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 0,
+                "exact_match_percentage": 16.666666666666664,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.16666666666666666
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'indian-cuisine'"
+        },
+        {
+            "user_name": "Karthik",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:35:48.573248",
+            "offer_id": "277411",
+            "offer_title": "Al Fresco Restaurant",
+            "total_merchant_tags": 12,
+            "total_user_tags": 6,
+            "exact_matches": [
+                {
+                    "user_tag": "seafood",
+                    "merchant_tag": "seafood",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [],
+            "unmatched_user_tags": [
+                "suitable-for-family",
+                "kids-and-family",
+                "chinese-cuisine",
+                "indian-cuisine",
+                "themed-restaurant"
+            ],
+            "unmatched_merchant_tags": [
+                "european-cuisine",
+                "beers",
+                "mediterranean-cuisine",
+                "highchair-available",
+                "validated-parking",
+                "wines",
+                "vegan",
+                "gluten-free",
+                "pizza",
+                "vegetarian-friendly",
+                "parking-available"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 0,
+                "exact_match_percentage": 16.666666666666664,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.16666666666666666
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'seafood'"
+        },
+        {
+            "user_name": "Karthik",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:35:48.576256",
+            "offer_id": "305057",
+            "offer_title": "Al Hadheerah - Bab Al Shams",
+            "total_merchant_tags": 12,
+            "total_user_tags": 6,
+            "exact_matches": [
+                {
+                    "user_tag": "seafood",
+                    "merchant_tag": "seafood",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [],
+            "unmatched_user_tags": [
+                "suitable-for-family",
+                "kids-and-family",
+                "chinese-cuisine",
+                "indian-cuisine",
+                "themed-restaurant"
+            ],
+            "unmatched_merchant_tags": [
+                "live-entertainment",
+                "barbeque",
+                "halal",
+                "highchair-available",
+                "live-cooking",
+                "validated-parking",
+                "dinner",
+                "live-music",
+                "vegan",
+                "gluten-free",
+                "vegetarian-friendly"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 0,
+                "exact_match_percentage": 16.666666666666664,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.16666666666666666
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'seafood'"
+        }
+    ]
+}

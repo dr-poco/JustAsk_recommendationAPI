@@ -1,0 +1,3307 @@
+{
+    "user_name": "wael",
+    "query": "suggest me some dining options in dubai",
+    "query_category": "preferredtags_dining",
+    "timestamp": "2025-05-02T13:36:37.398579",
+    "total_offers": 53,
+    "offers": [
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.019084",
+            "offer_id": "315178",
+            "offer_title": "Baker Street",
+            "total_merchant_tags": 12,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "outdoor-seating",
+                    "merchant_tag": "outdoor-seating",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "caf\u00e9",
+                    "merchant_tag": "cafe",
+                    "similarity_score": 0.75
+                }
+            ],
+            "unmatched_user_tags": [
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "average-pricing",
+                "booking-and-reservations",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "chicken",
+                "tea",
+                "salads",
+                "friendly-staff",
+                "coffee",
+                "desserts",
+                "sandwiches",
+                "kid-friendly",
+                "fast-casual-dining",
+                "online-order"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 1,
+                "exact_match_percentage": 6.666666666666667,
+                "partial_match_percentage": 6.666666666666667,
+                "overall_match_score": 0.11333333333333333
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'outdoor-seating'; Partial tag matches: 'caf\u00e9' (similar to 'cafe' with 0.75 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.032681",
+            "offer_id": "345613",
+            "offer_title": "The Coffee Boutique",
+            "total_merchant_tags": 10,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "large-group-friendly",
+                    "merchant_tag": "large-group-friendly",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "average-pricing",
+                    "merchant_tag": "average-pricing",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "booking-and-reservations",
+                    "merchant_tag": "booking-and-reservations",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "buffet",
+                    "merchant_tag": "buffet",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "italian-cuisine",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "fine-dining",
+                    "merchant_tag": "private-dining",
+                    "similarity_score": 0.72
+                },
+                {
+                    "user_tag": "european-cuisine",
+                    "merchant_tag": "arabian-cuisine",
+                    "similarity_score": 0.7096774193548387
+                }
+            ],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "fine-dining",
+                "international-cuisine",
+                "fast-food",
+                "brunch",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "asian-cuisine",
+                "valet-parking",
+                "wifi"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 5,
+                "partial_match_count": 2,
+                "exact_match_percentage": 33.33333333333333,
+                "partial_match_percentage": 13.333333333333334,
+                "overall_match_score": 0.4266666666666667
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'large-group-friendly', 'average-pricing', 'booking-and-reservations', 'buffet', 'italian-cuisine'; Partial tag matches: 'fine-dining' (similar to 'private-dining' with 0.72 similarity), 'european-cuisine' (similar to 'arabian-cuisine' with 0.71 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.032681",
+            "offer_id": "302267",
+            "offer_title": "Pizza Man",
+            "total_merchant_tags": 4,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "italian-cuisine",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "pasta",
+                    "merchant_tag": "pasta",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "pizza",
+                    "merchant_tag": "pizza",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "average-pricing",
+                "booking-and-reservations",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "european-cuisine"
+            ],
+            "unmatched_merchant_tags": [
+                "delivery-services"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 3,
+                "partial_match_count": 0,
+                "exact_match_percentage": 20.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.2
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'italian-cuisine', 'pasta', 'pizza'"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.042339",
+            "offer_id": "234449",
+            "offer_title": "Hakorah Restaurant",
+            "total_merchant_tags": 6,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "average-pricing",
+                    "merchant_tag": "average-pricing",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "pizza",
+                    "merchant_tag": "pizza",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "arabian-cuisine",
+                    "similarity_score": 0.8
+                },
+                {
+                    "user_tag": "european-cuisine",
+                    "merchant_tag": "arabian-cuisine",
+                    "similarity_score": 0.7096774193548387
+                }
+            ],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "booking-and-reservations",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine"
+            ],
+            "unmatched_merchant_tags": [
+                "pastries",
+                "middle-eastern-cuisine",
+                "delivery-services"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 2,
+                "partial_match_count": 2,
+                "exact_match_percentage": 13.333333333333334,
+                "partial_match_percentage": 13.333333333333334,
+                "overall_match_score": 0.22666666666666666
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'average-pricing', 'pizza'; Partial tag matches: 'italian-cuisine' (similar to 'arabian-cuisine' with 0.80 similarity), 'european-cuisine' (similar to 'arabian-cuisine' with 0.71 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.048788",
+            "offer_id": "277411",
+            "offer_title": "Al Fresco Restaurant",
+            "total_merchant_tags": 12,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "european-cuisine",
+                    "merchant_tag": "european-cuisine",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "pizza",
+                    "merchant_tag": "pizza",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "international-cuisine",
+                    "merchant_tag": "mediterranean-cuisine",
+                    "similarity_score": 0.7142857142857143
+                },
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "mediterranean-cuisine",
+                    "similarity_score": 0.7222222222222222
+                }
+            ],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "average-pricing",
+                "booking-and-reservations",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta"
+            ],
+            "unmatched_merchant_tags": [
+                "beers",
+                "highchair-available",
+                "validated-parking",
+                "wines",
+                "seafood",
+                "vegan",
+                "gluten-free",
+                "vegetarian-friendly",
+                "parking-available"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 2,
+                "partial_match_count": 2,
+                "exact_match_percentage": 13.333333333333334,
+                "partial_match_percentage": 13.333333333333334,
+                "overall_match_score": 0.22666666666666666
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'european-cuisine', 'pizza'; Partial tag matches: 'international-cuisine' (similar to 'mediterranean-cuisine' with 0.71 similarity), 'italian-cuisine' (similar to 'mediterranean-cuisine' with 0.72 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.098883",
+            "offer_id": "305060",
+            "offer_title": "The Coop House",
+            "total_merchant_tags": 7,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "large-group-friendly",
+                    "merchant_tag": "large-group-friendly",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "average-pricing",
+                    "merchant_tag": "average-pricing",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "fine-dining",
+                "booking-and-reservations",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "seafood",
+                "kid-friendly",
+                "basic-design",
+                "general",
+                "breakfast"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 2,
+                "partial_match_count": 0,
+                "exact_match_percentage": 13.333333333333334,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.13333333333333333
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'large-group-friendly', 'average-pricing'"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.100882",
+            "offer_id": "302262",
+            "offer_title": "Biryani Bistro",
+            "total_merchant_tags": 9,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "outdoor-seating",
+                    "merchant_tag": "outdoor-seating",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "average-pricing",
+                    "merchant_tag": "average-pricing",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "booking-and-reservations",
+                    "merchant_tag": "booking-and-reservations",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "indian-cuisine",
+                    "similarity_score": 0.8275862068965517
+                }
+            ],
+            "unmatched_user_tags": [
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "biryani",
+                "north-indian-cuisine",
+                "online-order",
+                "basic-design",
+                "delivery-services"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 3,
+                "partial_match_count": 1,
+                "exact_match_percentage": 20.0,
+                "partial_match_percentage": 6.666666666666667,
+                "overall_match_score": 0.24666666666666667
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'outdoor-seating', 'average-pricing', 'booking-and-reservations'; Partial tag matches: 'italian-cuisine' (similar to 'indian-cuisine' with 0.83 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.108915",
+            "offer_id": "302272",
+            "offer_title": "Chow Me In",
+            "total_merchant_tags": 6,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "average-pricing",
+                    "merchant_tag": "average-pricing",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "asian-cuisine",
+                    "similarity_score": 0.8571428571428571
+                }
+            ],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "booking-and-reservations",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "thai-cuisine",
+                "indo-chinese",
+                "chinese-cuisine",
+                "delivery-services"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 1,
+                "exact_match_percentage": 6.666666666666667,
+                "partial_match_percentage": 6.666666666666667,
+                "overall_match_score": 0.11333333333333333
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'average-pricing'; Partial tag matches: 'italian-cuisine' (similar to 'asian-cuisine' with 0.86 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.132140",
+            "offer_id": "41134",
+            "offer_title": "The Roost Rotisserie",
+            "total_merchant_tags": 11,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "outdoor-seating",
+                    "merchant_tag": "outdoor-seating",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "average-pricing",
+                    "merchant_tag": "average-pricing",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [],
+            "unmatched_user_tags": [
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "booking-and-reservations",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "hamburgers",
+                "kid-friendly",
+                "parking-available",
+                "wheelchair-access",
+                "middle-eastern-cuisine",
+                "online-order",
+                "basic-design",
+                "general",
+                "delivery-services"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 2,
+                "partial_match_count": 0,
+                "exact_match_percentage": 13.333333333333334,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.13333333333333333
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'outdoor-seating', 'average-pricing'"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.145805",
+            "offer_id": "345612",
+            "offer_title": "La Donuteria Cafe",
+            "total_merchant_tags": 10,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "large-group-friendly",
+                    "merchant_tag": "large-group-friendly",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "average-pricing",
+                    "merchant_tag": "average-pricing",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "booking-and-reservations",
+                    "merchant_tag": "booking-and-reservations",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "buffet",
+                    "merchant_tag": "buffet",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "italian-cuisine",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "fine-dining",
+                    "merchant_tag": "private-dining",
+                    "similarity_score": 0.72
+                },
+                {
+                    "user_tag": "european-cuisine",
+                    "merchant_tag": "arabian-cuisine",
+                    "similarity_score": 0.7096774193548387
+                }
+            ],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "fine-dining",
+                "international-cuisine",
+                "fast-food",
+                "brunch",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "asian-cuisine",
+                "valet-parking",
+                "wifi"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 5,
+                "partial_match_count": 2,
+                "exact_match_percentage": 33.33333333333333,
+                "partial_match_percentage": 13.333333333333334,
+                "overall_match_score": 0.4266666666666667
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'large-group-friendly', 'average-pricing', 'booking-and-reservations', 'buffet', 'italian-cuisine'; Partial tag matches: 'fine-dining' (similar to 'private-dining' with 0.72 similarity), 'european-cuisine' (similar to 'arabian-cuisine' with 0.71 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.149803",
+            "offer_id": "302273",
+            "offer_title": "Punjab Bistro",
+            "total_merchant_tags": 12,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "outdoor-seating",
+                    "merchant_tag": "outdoor-seating",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "fine-dining",
+                    "merchant_tag": "private-dining",
+                    "similarity_score": 0.72
+                },
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "indian-cuisine",
+                    "similarity_score": 0.8275862068965517
+                }
+            ],
+            "unmatched_user_tags": [
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "average-pricing",
+                "booking-and-reservations",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "kebabs",
+                "biryani",
+                "momos",
+                "curry",
+                "north-indian-cuisine",
+                "poultry",
+                "live-music",
+                "valet-parking",
+                "online-order"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 2,
+                "exact_match_percentage": 6.666666666666667,
+                "partial_match_percentage": 13.333333333333334,
+                "overall_match_score": 0.16
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'outdoor-seating'; Partial tag matches: 'fine-dining' (similar to 'private-dining' with 0.72 similarity), 'italian-cuisine' (similar to 'indian-cuisine' with 0.83 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.166628",
+            "offer_id": "302268",
+            "offer_title": "One Square Meal",
+            "total_merchant_tags": 12,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "outdoor-seating",
+                    "merchant_tag": "outdoor-seating",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "fine-dining",
+                    "merchant_tag": "private-dining",
+                    "similarity_score": 0.72
+                },
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "indian-cuisine",
+                    "similarity_score": 0.8275862068965517
+                }
+            ],
+            "unmatched_user_tags": [
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "average-pricing",
+                "booking-and-reservations",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "kebabs",
+                "biryani",
+                "momos",
+                "curry",
+                "north-indian-cuisine",
+                "poultry",
+                "live-music",
+                "valet-parking",
+                "online-order"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 2,
+                "exact_match_percentage": 6.666666666666667,
+                "partial_match_percentage": 13.333333333333334,
+                "overall_match_score": 0.16
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'outdoor-seating'; Partial tag matches: 'fine-dining' (similar to 'private-dining' with 0.72 similarity), 'italian-cuisine' (similar to 'indian-cuisine' with 0.83 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.183107",
+            "offer_id": "298804",
+            "offer_title": "Maestro Pizza",
+            "total_merchant_tags": 6,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "fast-food",
+                    "merchant_tag": "fast-food",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "pizza",
+                    "merchant_tag": "pizza",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "average-pricing",
+                "booking-and-reservations",
+                "international-cuisine",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine"
+            ],
+            "unmatched_merchant_tags": [
+                "industrial-design",
+                "affordable",
+                "general",
+                "delivery-services"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 2,
+                "partial_match_count": 0,
+                "exact_match_percentage": 13.333333333333334,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.13333333333333333
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'fast-food', 'pizza'"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.192931",
+            "offer_id": "302266",
+            "offer_title": "Masala Pizza",
+            "total_merchant_tags": 6,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "pizza",
+                    "merchant_tag": "pizza",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "average-pricing",
+                "booking-and-reservations",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine"
+            ],
+            "unmatched_merchant_tags": [
+                "fast-casual-dining",
+                "online-order",
+                "basic-design",
+                "general",
+                "delivery-services"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 0,
+                "exact_match_percentage": 6.666666666666667,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.06666666666666667
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'pizza'"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.200837",
+            "offer_id": "305062",
+            "offer_title": "Stay Bakery & Cafe",
+            "total_merchant_tags": 6,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "average-pricing",
+                    "merchant_tag": "average-pricing",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "caf\u00e9",
+                    "merchant_tag": "cafe",
+                    "similarity_score": 0.75
+                }
+            ],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "booking-and-reservations",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "bakery",
+                "desserts",
+                "fast-casual-dining",
+                "general"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 1,
+                "exact_match_percentage": 6.666666666666667,
+                "partial_match_percentage": 6.666666666666667,
+                "overall_match_score": 0.11333333333333333
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'average-pricing'; Partial tag matches: 'caf\u00e9' (similar to 'cafe' with 0.75 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.200837",
+            "offer_id": "302271",
+            "offer_title": "Mithaas",
+            "total_merchant_tags": 7,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "fast-food",
+                    "merchant_tag": "fast-food",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "average-pricing",
+                "booking-and-reservations",
+                "international-cuisine",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "vegetarian-restaurant",
+                "maharastrian-cuisine",
+                "north-indian-cuisine",
+                "desserts",
+                "affordable",
+                "delivery-services"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 0,
+                "exact_match_percentage": 6.666666666666667,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.06666666666666667
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'fast-food'"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.216392",
+            "offer_id": "302265",
+            "offer_title": "Yum Momos",
+            "total_merchant_tags": 6,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "outdoor-seating",
+                    "merchant_tag": "outdoor-seating",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "average-pricing",
+                    "merchant_tag": "average-pricing",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "fast-food",
+                    "merchant_tag": "fast-food",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "indian-cuisine",
+                    "similarity_score": 0.8275862068965517
+                }
+            ],
+            "unmatched_user_tags": [
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "booking-and-reservations",
+                "international-cuisine",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "online-order",
+                "delivery-services"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 3,
+                "partial_match_count": 1,
+                "exact_match_percentage": 20.0,
+                "partial_match_percentage": 6.666666666666667,
+                "overall_match_score": 0.24666666666666667
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'outdoor-seating', 'average-pricing', 'fast-food'; Partial tag matches: 'italian-cuisine' (similar to 'indian-cuisine' with 0.83 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.217392",
+            "offer_id": "92161",
+            "offer_title": "Cafe Social - Mercure Hotel Barsha Heights",
+            "total_merchant_tags": 11,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "large-group-friendly",
+                    "merchant_tag": "large-group-friendly",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "average-pricing",
+                    "merchant_tag": "average-pricing",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "international-cuisine",
+                    "merchant_tag": "international-cuisine",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "italian-cuisine",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "caf\u00e9",
+                    "merchant_tag": "cafe",
+                    "similarity_score": 0.75
+                },
+                {
+                    "user_tag": "european-cuisine",
+                    "merchant_tag": "american-cuisine",
+                    "similarity_score": 0.75
+                }
+            ],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "fine-dining",
+                "booking-and-reservations",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "salads",
+                "modern-design",
+                "valet-parking",
+                "arabian-cuisine",
+                "breakfast"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 4,
+                "partial_match_count": 2,
+                "exact_match_percentage": 26.666666666666668,
+                "partial_match_percentage": 13.333333333333334,
+                "overall_match_score": 0.36000000000000004
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'large-group-friendly', 'average-pricing', 'international-cuisine', 'italian-cuisine'; Partial tag matches: 'caf\u00e9' (similar to 'cafe' with 0.75 similarity), 'european-cuisine' (similar to 'american-cuisine' with 0.75 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.217392",
+            "offer_id": "350009",
+            "offer_title": "Tauji Restaurant",
+            "total_merchant_tags": 7,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "large-group-friendly",
+                    "merchant_tag": "large-group-friendly",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "international-cuisine",
+                    "merchant_tag": "international-cuisine",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "buffet",
+                    "merchant_tag": "buffet",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "brunch",
+                    "merchant_tag": "lunch",
+                    "similarity_score": 0.7272727272727273
+                },
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "local-cuisine",
+                    "similarity_score": 0.7142857142857143
+                }
+            ],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "fine-dining",
+                "average-pricing",
+                "booking-and-reservations",
+                "fast-food",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "dinner",
+                "breakfast"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 3,
+                "partial_match_count": 2,
+                "exact_match_percentage": 20.0,
+                "partial_match_percentage": 13.333333333333334,
+                "overall_match_score": 0.29333333333333333
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'large-group-friendly', 'international-cuisine', 'buffet'; Partial tag matches: 'brunch' (similar to 'lunch' with 0.73 similarity), 'italian-cuisine' (similar to 'local-cuisine' with 0.71 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.217392",
+            "offer_id": "319835",
+            "offer_title": "Charcoal Shawarma",
+            "total_merchant_tags": 9,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "booking-and-reservations",
+                    "merchant_tag": "booking-and-reservations",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "arabian-cuisine",
+                    "similarity_score": 0.8
+                },
+                {
+                    "user_tag": "european-cuisine",
+                    "merchant_tag": "arabian-cuisine",
+                    "similarity_score": 0.7096774193548387
+                }
+            ],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "average-pricing",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "hookah",
+                "ethnic-design",
+                "luxury",
+                "middle-eastern-cuisine",
+                "valet-parking",
+                "wifi",
+                "delivery-services"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 2,
+                "exact_match_percentage": 6.666666666666667,
+                "partial_match_percentage": 13.333333333333334,
+                "overall_match_score": 0.16
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'booking-and-reservations'; Partial tag matches: 'italian-cuisine' (similar to 'arabian-cuisine' with 0.80 similarity), 'european-cuisine' (similar to 'arabian-cuisine' with 0.71 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.233854",
+            "offer_id": "302264",
+            "offer_title": "Butter Chicken & Co.",
+            "total_merchant_tags": 5,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "average-pricing",
+                    "merchant_tag": "average-pricing",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "fast-food",
+                    "merchant_tag": "fast-food",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "caf\u00e9",
+                    "merchant_tag": "cafe",
+                    "similarity_score": 0.75
+                },
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "local-cuisine",
+                    "similarity_score": 0.7142857142857143
+                }
+            ],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "booking-and-reservations",
+                "international-cuisine",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "basic-design"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 2,
+                "partial_match_count": 2,
+                "exact_match_percentage": 13.333333333333334,
+                "partial_match_percentage": 13.333333333333334,
+                "overall_match_score": 0.22666666666666666
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'average-pricing', 'fast-food'; Partial tag matches: 'caf\u00e9' (similar to 'cafe' with 0.75 similarity), 'italian-cuisine' (similar to 'local-cuisine' with 0.71 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.233854",
+            "offer_id": "315179",
+            "offer_title": "Al Abaq Alshami Restaurant",
+            "total_merchant_tags": 5,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "average-pricing",
+                    "merchant_tag": "average-pricing",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "arabian-cuisine",
+                    "similarity_score": 0.8
+                },
+                {
+                    "user_tag": "european-cuisine",
+                    "merchant_tag": "syrian-cuisine",
+                    "similarity_score": 0.7333333333333333
+                }
+            ],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "booking-and-reservations",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "middle-eastern-cuisine",
+                "delivery-services"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 2,
+                "exact_match_percentage": 6.666666666666667,
+                "partial_match_percentage": 13.333333333333334,
+                "overall_match_score": 0.16
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'average-pricing'; Partial tag matches: 'italian-cuisine' (similar to 'arabian-cuisine' with 0.80 similarity), 'european-cuisine' (similar to 'syrian-cuisine' with 0.73 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.233854",
+            "offer_id": "302263",
+            "offer_title": "Roll Baby Roll",
+            "total_merchant_tags": 5,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "average-pricing",
+                    "merchant_tag": "average-pricing",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "caf\u00e9",
+                    "merchant_tag": "cafe",
+                    "similarity_score": 0.75
+                }
+            ],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "booking-and-reservations",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "basic-design",
+                "wifi",
+                "general"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 1,
+                "exact_match_percentage": 6.666666666666667,
+                "partial_match_percentage": 6.666666666666667,
+                "overall_match_score": 0.11333333333333333
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'average-pricing'; Partial tag matches: 'caf\u00e9' (similar to 'cafe' with 0.75 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.233854",
+            "offer_id": "317234",
+            "offer_title": "Shakey's Pizza Parlor",
+            "total_merchant_tags": 3,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "fast-food",
+                    "merchant_tag": "fast-food",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "pizza",
+                    "merchant_tag": "pizza",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "average-pricing",
+                "booking-and-reservations",
+                "international-cuisine",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine"
+            ],
+            "unmatched_merchant_tags": [
+                "general"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 2,
+                "partial_match_count": 0,
+                "exact_match_percentage": 13.333333333333334,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.13333333333333333
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'fast-food', 'pizza'"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.233854",
+            "offer_id": "302269",
+            "offer_title": "Nais Italian",
+            "total_merchant_tags": 12,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "outdoor-seating",
+                    "merchant_tag": "outdoor-seating",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "average-pricing",
+                    "merchant_tag": "average-pricing",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "booking-and-reservations",
+                    "merchant_tag": "booking-and-reservations",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "italian-cuisine",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "pasta",
+                    "merchant_tag": "pasta",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "pizza",
+                    "merchant_tag": "pizza",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [],
+            "unmatched_user_tags": [
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "european-cuisine"
+            ],
+            "unmatched_merchant_tags": [
+                "salads",
+                "desserts",
+                "vegetarian-friendly",
+                "online-order",
+                "basic-design",
+                "wifi"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 6,
+                "partial_match_count": 0,
+                "exact_match_percentage": 40.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.4
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'outdoor-seating', 'average-pricing', 'booking-and-reservations', 'italian-cuisine', 'pasta', 'pizza'"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.246053",
+            "offer_id": "337220",
+            "offer_title": "Coppasta Restaurant",
+            "total_merchant_tags": 7,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "booking-and-reservations",
+                    "merchant_tag": "booking-and-reservations",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "buffet",
+                    "merchant_tag": "buffet",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "brunch",
+                    "merchant_tag": "lunch",
+                    "similarity_score": 0.7272727272727273
+                },
+                {
+                    "user_tag": "european-cuisine",
+                    "merchant_tag": "fusion-cuisine",
+                    "similarity_score": 0.7333333333333333
+                }
+            ],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "average-pricing",
+                "international-cuisine",
+                "fast-food",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "dinner",
+                "general",
+                "breakfast"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 2,
+                "partial_match_count": 2,
+                "exact_match_percentage": 13.333333333333334,
+                "partial_match_percentage": 13.333333333333334,
+                "overall_match_score": 0.22666666666666666
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'booking-and-reservations', 'buffet'; Partial tag matches: 'brunch' (similar to 'lunch' with 0.73 similarity), 'european-cuisine' (similar to 'fusion-cuisine' with 0.73 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.249608",
+            "offer_id": "302261",
+            "offer_title": "Yalla Momos",
+            "total_merchant_tags": 11,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "outdoor-seating",
+                    "merchant_tag": "outdoor-seating",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "average-pricing",
+                    "merchant_tag": "average-pricing",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "booking-and-reservations",
+                    "merchant_tag": "booking-and-reservations",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [],
+            "unmatched_user_tags": [
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "indo-chinese",
+                "momos",
+                "poultry",
+                "air-conditioned",
+                "kid-friendly",
+                "online-order",
+                "basic-design",
+                "delivery-services"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 3,
+                "partial_match_count": 0,
+                "exact_match_percentage": 20.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.2
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'outdoor-seating', 'average-pricing', 'booking-and-reservations'"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.254699",
+            "offer_id": "90212",
+            "offer_title": "Mistral Restaurant - Oaks Ibn Battuta Gate Hotel Dubai",
+            "total_merchant_tags": 12,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "brunch",
+                    "merchant_tag": "brunch",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "international-cuisine",
+                    "merchant_tag": "internationa-cuisine",
+                    "similarity_score": 0.975609756097561
+                },
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "indian-cusine",
+                    "similarity_score": 0.7857142857142857
+                },
+                {
+                    "user_tag": "european-cuisine",
+                    "merchant_tag": "morroccan-cuisine",
+                    "similarity_score": 0.7272727272727273
+                }
+            ],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "average-pricing",
+                "booking-and-reservations",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "all-day-dining",
+                "continental-cuisine",
+                "halal",
+                "live-cooking",
+                "vegan",
+                "vegetarian-friendly",
+                "luxury",
+                "other-design"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 3,
+                "exact_match_percentage": 6.666666666666667,
+                "partial_match_percentage": 20.0,
+                "overall_match_score": 0.20666666666666664
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'brunch'; Partial tag matches: 'international-cuisine' (similar to 'internationa-cuisine' with 0.98 similarity), 'italian-cuisine' (similar to 'indian-cusine' with 0.79 similarity), 'european-cuisine' (similar to 'morroccan-cuisine' with 0.73 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.264790",
+            "offer_id": "325797",
+            "offer_title": "Kata",
+            "total_merchant_tags": 7,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "average-pricing",
+                    "merchant_tag": "average-pricing",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "caf\u00e9",
+                    "merchant_tag": "cafe",
+                    "similarity_score": 0.75
+                },
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "local-cuisine",
+                    "similarity_score": 0.7142857142857143
+                }
+            ],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "booking-and-reservations",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "ice-cream",
+                "food-and-beverages",
+                "desserts",
+                "basic-design"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 2,
+                "exact_match_percentage": 6.666666666666667,
+                "partial_match_percentage": 13.333333333333334,
+                "overall_match_score": 0.16
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'average-pricing'; Partial tag matches: 'caf\u00e9' (similar to 'cafe' with 0.75 similarity), 'italian-cuisine' (similar to 'local-cuisine' with 0.71 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.267115",
+            "offer_id": "330722",
+            "offer_title": "Kebab Khodmooni Restaurant",
+            "total_merchant_tags": 5,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "large-group-friendly",
+                    "merchant_tag": "large-group-friendly",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "average-pricing",
+                    "merchant_tag": "average-pricing",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "indian-cuisine",
+                    "similarity_score": 0.8275862068965517
+                },
+                {
+                    "user_tag": "european-cuisine",
+                    "merchant_tag": "arabian-cuisine",
+                    "similarity_score": 0.7096774193548387
+                }
+            ],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "fine-dining",
+                "booking-and-reservations",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "middle-eastern-cuisine"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 2,
+                "partial_match_count": 2,
+                "exact_match_percentage": 13.333333333333334,
+                "partial_match_percentage": 13.333333333333334,
+                "overall_match_score": 0.22666666666666666
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'large-group-friendly', 'average-pricing'; Partial tag matches: 'italian-cuisine' (similar to 'indian-cuisine' with 0.83 similarity), 'european-cuisine' (similar to 'arabian-cuisine' with 0.71 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.267115",
+            "offer_id": "242291",
+            "offer_title": "Bebek Restaurant",
+            "total_merchant_tags": 12,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "outdoor-seating",
+                    "merchant_tag": "outdoor-seating",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "booking-and-reservations",
+                    "merchant_tag": "booking-and-reservations",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "international-cuisine",
+                    "merchant_tag": "international-cuisine",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "brunch",
+                    "merchant_tag": "lunch",
+                    "similarity_score": 0.7272727272727273
+                }
+            ],
+            "unmatched_user_tags": [
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "average-pricing",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "turkish-cuisine",
+                "hookah",
+                "business-meeting",
+                "live-music",
+                "luxury",
+                "modern-design",
+                "valet-parking",
+                "breakfast"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 3,
+                "partial_match_count": 1,
+                "exact_match_percentage": 20.0,
+                "partial_match_percentage": 6.666666666666667,
+                "overall_match_score": 0.24666666666666667
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'outdoor-seating', 'booking-and-reservations', 'international-cuisine'; Partial tag matches: 'brunch' (similar to 'lunch' with 0.73 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.267115",
+            "offer_id": "320360",
+            "offer_title": "Hadoota Masreya",
+            "total_merchant_tags": 12,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "brunch",
+                    "merchant_tag": "brunch",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "international-cuisine",
+                    "merchant_tag": "mediterranean-cuisine",
+                    "similarity_score": 0.7142857142857143
+                },
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "egyptian-cuisine",
+                    "similarity_score": 0.7741935483870968
+                },
+                {
+                    "user_tag": "european-cuisine",
+                    "merchant_tag": "egyptian-cuisine",
+                    "similarity_score": 0.75
+                }
+            ],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "average-pricing",
+                "booking-and-reservations",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "mobile-payment",
+                "halal",
+                "highchair-available",
+                "vegan",
+                "gluten-free",
+                "vegetarian-friendly",
+                "tv",
+                "parking-available",
+                "wheelchair-access"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 3,
+                "exact_match_percentage": 6.666666666666667,
+                "partial_match_percentage": 20.0,
+                "overall_match_score": 0.20666666666666664
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'brunch'; Partial tag matches: 'international-cuisine' (similar to 'mediterranean-cuisine' with 0.71 similarity), 'italian-cuisine' (similar to 'egyptian-cuisine' with 0.77 similarity), 'european-cuisine' (similar to 'egyptian-cuisine' with 0.75 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.283196",
+            "offer_id": "324906",
+            "offer_title": "Slate Kitchen & Cafe",
+            "total_merchant_tags": 12,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "outdoor-seating",
+                    "merchant_tag": "outdoor-seating",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "average-pricing",
+                    "merchant_tag": "average-pricing",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "booking-and-reservations",
+                    "merchant_tag": "booking-and-reservations",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "international-cuisine",
+                    "merchant_tag": "international-cuisine",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "caf\u00e9",
+                    "merchant_tag": "cafe",
+                    "similarity_score": 0.75
+                },
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "american-cuisine",
+                    "similarity_score": 0.7096774193548387
+                },
+                {
+                    "user_tag": "european-cuisine",
+                    "merchant_tag": "american-cuisine",
+                    "similarity_score": 0.75
+                }
+            ],
+            "unmatched_user_tags": [
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "burger",
+                "coffee",
+                "kid-friendly",
+                "online-order",
+                "basic-design",
+                "wifi"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 4,
+                "partial_match_count": 3,
+                "exact_match_percentage": 26.666666666666668,
+                "partial_match_percentage": 20.0,
+                "overall_match_score": 0.4066666666666666
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'outdoor-seating', 'average-pricing', 'booking-and-reservations', 'international-cuisine'; Partial tag matches: 'caf\u00e9' (similar to 'cafe' with 0.75 similarity), 'italian-cuisine' (similar to 'american-cuisine' with 0.71 similarity), 'european-cuisine' (similar to 'american-cuisine' with 0.75 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.283196",
+            "offer_id": "277414",
+            "offer_title": "Shamiana - Taj Jumeirah Lake Towers",
+            "total_merchant_tags": 12,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "brunch",
+                    "merchant_tag": "brunch",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "indian-cuisine",
+                    "similarity_score": 0.8275862068965517
+                },
+                {
+                    "user_tag": "european-cuisine",
+                    "merchant_tag": "american-cuisine",
+                    "similarity_score": 0.75
+                }
+            ],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "average-pricing",
+                "booking-and-reservations",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "luxury-dining",
+                "highchair-available",
+                "live-music",
+                "classical-design",
+                "vegan",
+                "vegetarian-friendly",
+                "luxury",
+                "wheelchair-access",
+                "lunch-and-dinner"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 2,
+                "exact_match_percentage": 6.666666666666667,
+                "partial_match_percentage": 13.333333333333334,
+                "overall_match_score": 0.16
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'brunch'; Partial tag matches: 'italian-cuisine' (similar to 'indian-cuisine' with 0.83 similarity), 'european-cuisine' (similar to 'american-cuisine' with 0.75 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.299902",
+            "offer_id": "238761",
+            "offer_title": "Piccolo Mondo View",
+            "total_merchant_tags": 7,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "large-group-friendly",
+                    "merchant_tag": "large-group-friendly",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "international-cuisine",
+                    "merchant_tag": "international-cuisine",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "arabian-cuisine",
+                    "similarity_score": 0.8
+                },
+                {
+                    "user_tag": "european-cuisine",
+                    "merchant_tag": "american-cuisine",
+                    "similarity_score": 0.75
+                }
+            ],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "fine-dining",
+                "average-pricing",
+                "booking-and-reservations",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "lunch-and-dinner",
+                "basic-design",
+                "breakfast"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 2,
+                "partial_match_count": 2,
+                "exact_match_percentage": 13.333333333333334,
+                "partial_match_percentage": 13.333333333333334,
+                "overall_match_score": 0.22666666666666666
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'large-group-friendly', 'international-cuisine'; Partial tag matches: 'italian-cuisine' (similar to 'arabian-cuisine' with 0.80 similarity), 'european-cuisine' (similar to 'american-cuisine' with 0.75 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.299902",
+            "offer_id": "25589",
+            "offer_title": "Masalawok Restaurant",
+            "total_merchant_tags": 8,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "large-group-friendly",
+                    "merchant_tag": "large-group-friendly",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "average-pricing",
+                    "merchant_tag": "average-pricing",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "indian-cuisine",
+                    "similarity_score": 0.8275862068965517
+                }
+            ],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "fine-dining",
+                "booking-and-reservations",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "noodles",
+                "soups",
+                "other-design",
+                "online-order",
+                "delivery-services"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 2,
+                "partial_match_count": 1,
+                "exact_match_percentage": 13.333333333333334,
+                "partial_match_percentage": 6.666666666666667,
+                "overall_match_score": 0.18000000000000002
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'large-group-friendly', 'average-pricing'; Partial tag matches: 'italian-cuisine' (similar to 'indian-cuisine' with 0.83 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.299902",
+            "offer_id": "41132",
+            "offer_title": "New Season Restaurant - City Seasons Dubai Hotel Deira",
+            "total_merchant_tags": 6,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "buffet",
+                    "merchant_tag": "buffet",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "continental-cuisine",
+                    "similarity_score": 0.7058823529411765
+                }
+            ],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "average-pricing",
+                "booking-and-reservations",
+                "international-cuisine",
+                "fast-food",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "premium",
+                "modern-design",
+                "wifi",
+                "breakfast"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 1,
+                "exact_match_percentage": 6.666666666666667,
+                "partial_match_percentage": 6.666666666666667,
+                "overall_match_score": 0.11333333333333333
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'buffet'; Partial tag matches: 'italian-cuisine' (similar to 'continental-cuisine' with 0.71 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.299902",
+            "offer_id": "319830",
+            "offer_title": "Bait Al Zain Mandi Restaurant",
+            "total_merchant_tags": 9,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "booking-and-reservations",
+                    "merchant_tag": "booking-and-reservations",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "arabian-cuisine",
+                    "similarity_score": 0.8
+                },
+                {
+                    "user_tag": "european-cuisine",
+                    "merchant_tag": "arabian-cuisine",
+                    "similarity_score": 0.7096774193548387
+                }
+            ],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "average-pricing",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "hookah",
+                "ethnic-design",
+                "luxury",
+                "middle-eastern-cuisine",
+                "valet-parking",
+                "wifi",
+                "delivery-services"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 2,
+                "exact_match_percentage": 6.666666666666667,
+                "partial_match_percentage": 13.333333333333334,
+                "overall_match_score": 0.16
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'booking-and-reservations'; Partial tag matches: 'italian-cuisine' (similar to 'arabian-cuisine' with 0.80 similarity), 'european-cuisine' (similar to 'arabian-cuisine' with 0.71 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.316560",
+            "offer_id": "315183",
+            "offer_title": "Al Manzil Restaurant",
+            "total_merchant_tags": 3,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "outdoor-seating",
+                    "merchant_tag": "outdoor-seating",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "arabian-cuisine",
+                    "similarity_score": 0.8
+                },
+                {
+                    "user_tag": "european-cuisine",
+                    "merchant_tag": "arabian-cuisine",
+                    "similarity_score": 0.7096774193548387
+                }
+            ],
+            "unmatched_user_tags": [
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "average-pricing",
+                "booking-and-reservations",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "middle-eastern-cuisine"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 2,
+                "exact_match_percentage": 6.666666666666667,
+                "partial_match_percentage": 13.333333333333334,
+                "overall_match_score": 0.16
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'outdoor-seating'; Partial tag matches: 'italian-cuisine' (similar to 'arabian-cuisine' with 0.80 similarity), 'european-cuisine' (similar to 'arabian-cuisine' with 0.71 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.316560",
+            "offer_id": "325810",
+            "offer_title": "Moka Cafe - Villa Rotana",
+            "total_merchant_tags": 5,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "average-pricing",
+                    "merchant_tag": "average-pricing",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "caf\u00e9",
+                    "merchant_tag": "cafe",
+                    "similarity_score": 0.75
+                }
+            ],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "booking-and-reservations",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "basic-design",
+                "wifi",
+                "general"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 1,
+                "exact_match_percentage": 6.666666666666667,
+                "partial_match_percentage": 6.666666666666667,
+                "overall_match_score": 0.11333333333333333
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'average-pricing'; Partial tag matches: 'caf\u00e9' (similar to 'cafe' with 0.75 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.316560",
+            "offer_id": "25581",
+            "offer_title": "Karachi Grill",
+            "total_merchant_tags": 12,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "outdoor-seating",
+                    "merchant_tag": "outdoor-seating",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "booking-and-reservations",
+                    "merchant_tag": "booking-and-reservations",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "buffet",
+                    "merchant_tag": "buffet",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "fine-dining",
+                    "merchant_tag": "private-dining",
+                    "similarity_score": 0.72
+                },
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "indian-cuisine",
+                    "similarity_score": 0.8275862068965517
+                }
+            ],
+            "unmatched_user_tags": [
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "average-pricing",
+                "international-cuisine",
+                "fast-food",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "pakistani-cuisine",
+                "north-indian-cuisine",
+                "cakes",
+                "kid-friendly",
+                "wheelchair-access",
+                "modern-design",
+                "wifi"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 3,
+                "partial_match_count": 2,
+                "exact_match_percentage": 20.0,
+                "partial_match_percentage": 13.333333333333334,
+                "overall_match_score": 0.29333333333333333
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'outdoor-seating', 'booking-and-reservations', 'buffet'; Partial tag matches: 'fine-dining' (similar to 'private-dining' with 0.72 similarity), 'italian-cuisine' (similar to 'indian-cuisine' with 0.83 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.316560",
+            "offer_id": "90202",
+            "offer_title": "La Marguerite - Carlton Tower Hotel",
+            "total_merchant_tags": 11,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "large-group-friendly",
+                    "merchant_tag": "large-group-friendly",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "fine-dining",
+                    "merchant_tag": "fine-dining",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "booking-and-reservations",
+                    "merchant_tag": "booking-and-reservations",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "continental-cuisine",
+                    "similarity_score": 0.7058823529411765
+                }
+            ],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "average-pricing",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "tv",
+                "luxury",
+                "modern-design",
+                "serves-alcohol-full-bar",
+                "valet-parking",
+                "wifi",
+                "breakfast"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 3,
+                "partial_match_count": 1,
+                "exact_match_percentage": 20.0,
+                "partial_match_percentage": 6.666666666666667,
+                "overall_match_score": 0.24666666666666667
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'large-group-friendly', 'fine-dining', 'booking-and-reservations'; Partial tag matches: 'italian-cuisine' (similar to 'continental-cuisine' with 0.71 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.333233",
+            "offer_id": "320359",
+            "offer_title": "Bliss'd Coffee and Juice Bar",
+            "total_merchant_tags": 6,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "average-pricing",
+                    "merchant_tag": "average-pricing",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "caf\u00e9",
+                    "merchant_tag": "cafe",
+                    "similarity_score": 0.75
+                }
+            ],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "booking-and-reservations",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "juices",
+                "fast-casual-dining",
+                "general",
+                "breakfast"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 1,
+                "exact_match_percentage": 6.666666666666667,
+                "partial_match_percentage": 6.666666666666667,
+                "overall_match_score": 0.11333333333333333
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'average-pricing'; Partial tag matches: 'caf\u00e9' (similar to 'cafe' with 0.75 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.333233",
+            "offer_id": "302285",
+            "offer_title": "Zala - Bab Al Shams",
+            "total_merchant_tags": 11,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "outdoor-seating",
+                    "merchant_tag": "outdoor-seating",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "large-group-friendly",
+                    "merchant_tag": "large-group-friendly",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "booking-and-reservations",
+                    "merchant_tag": "booking-and-reservations",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "buffet",
+                    "merchant_tag": "buffet",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "brunch",
+                    "merchant_tag": "brunch",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "international-cuisine",
+                    "merchant_tag": "mediterranean-cuisine",
+                    "similarity_score": 0.7142857142857143
+                },
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "mediterranean-cuisine",
+                    "similarity_score": 0.7222222222222222
+                },
+                {
+                    "user_tag": "european-cuisine",
+                    "merchant_tag": "mediterranean-cuisine",
+                    "similarity_score": 0.7027027027027027
+                }
+            ],
+            "unmatched_user_tags": [
+                "caf\u00e9",
+                "live-entertainment",
+                "fine-dining",
+                "average-pricing",
+                "international-cuisine",
+                "fast-food",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "parking-available",
+                "wheelchair-access",
+                "lunch-and-dinner",
+                "wifi",
+                "breakfast"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 5,
+                "partial_match_count": 3,
+                "exact_match_percentage": 33.33333333333333,
+                "partial_match_percentage": 20.0,
+                "overall_match_score": 0.47333333333333333
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'outdoor-seating', 'large-group-friendly', 'booking-and-reservations', 'buffet', 'brunch'; Partial tag matches: 'international-cuisine' (similar to 'mediterranean-cuisine' with 0.71 similarity), 'italian-cuisine' (similar to 'mediterranean-cuisine' with 0.72 similarity), 'european-cuisine' (similar to 'mediterranean-cuisine' with 0.70 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.333233",
+            "offer_id": "41133",
+            "offer_title": "New Season Restaurant - City Seasons Towers Hotel",
+            "total_merchant_tags": 12,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "outdoor-seating",
+                    "merchant_tag": "outdoor-seating",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "average-pricing",
+                    "merchant_tag": "average-pricing",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "booking-and-reservations",
+                    "merchant_tag": "booking-and-reservations",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "international-cuisine",
+                    "merchant_tag": "international-cuisine",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "buffet",
+                    "merchant_tag": "buffet",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "brunch",
+                    "merchant_tag": "lunch",
+                    "similarity_score": 0.7272727272727273
+                }
+            ],
+            "unmatched_user_tags": [
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "fast-food",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "signature-dish",
+                "dinner",
+                "kid-friendly",
+                "basic-design",
+                "wifi",
+                "breakfast"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 5,
+                "partial_match_count": 1,
+                "exact_match_percentage": 33.33333333333333,
+                "partial_match_percentage": 6.666666666666667,
+                "overall_match_score": 0.38
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'outdoor-seating', 'average-pricing', 'booking-and-reservations', 'international-cuisine', 'buffet'; Partial tag matches: 'brunch' (similar to 'lunch' with 0.73 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.346264",
+            "offer_id": "233912",
+            "offer_title": "Ayyam Al Khair Restaurant & Cafe",
+            "total_merchant_tags": 10,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "large-group-friendly",
+                    "merchant_tag": "large-group-friendly",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "average-pricing",
+                    "merchant_tag": "average-pricing",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "arabian-cuisine",
+                    "similarity_score": 0.8
+                },
+                {
+                    "user_tag": "european-cuisine",
+                    "merchant_tag": "arabian-cuisine",
+                    "similarity_score": 0.7096774193548387
+                }
+            ],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "fine-dining",
+                "booking-and-reservations",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "hookah",
+                "ethnic-design",
+                "air-conditioned",
+                "live-music",
+                "middle-eastern-cuisine",
+                "wifi",
+                "delivery-services"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 2,
+                "partial_match_count": 2,
+                "exact_match_percentage": 13.333333333333334,
+                "partial_match_percentage": 13.333333333333334,
+                "overall_match_score": 0.22666666666666666
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'large-group-friendly', 'average-pricing'; Partial tag matches: 'italian-cuisine' (similar to 'arabian-cuisine' with 0.80 similarity), 'european-cuisine' (similar to 'arabian-cuisine' with 0.71 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.358228",
+            "offer_id": "25546",
+            "offer_title": "Bait Al Nakhla - Mgallery By Sofitel",
+            "total_merchant_tags": 10,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "outdoor-seating",
+                    "merchant_tag": "outdoor-seating",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "large-group-friendly",
+                    "merchant_tag": "large-group-friendly",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "fine-dining",
+                    "merchant_tag": "fine-dining",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "booking-and-reservations",
+                    "merchant_tag": "booking-and-reservations",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "arabian-cuisine",
+                    "similarity_score": 0.8
+                },
+                {
+                    "user_tag": "european-cuisine",
+                    "merchant_tag": "arabian-cuisine",
+                    "similarity_score": 0.7096774193548387
+                }
+            ],
+            "unmatched_user_tags": [
+                "caf\u00e9",
+                "live-entertainment",
+                "average-pricing",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "dinner",
+                "premium",
+                "modern-design",
+                "serves-alcohol-full-bar",
+                "middle-eastern-cuisine"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 4,
+                "partial_match_count": 2,
+                "exact_match_percentage": 26.666666666666668,
+                "partial_match_percentage": 13.333333333333334,
+                "overall_match_score": 0.36000000000000004
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'outdoor-seating', 'large-group-friendly', 'fine-dining', 'booking-and-reservations'; Partial tag matches: 'italian-cuisine' (similar to 'arabian-cuisine' with 0.80 similarity), 'european-cuisine' (similar to 'arabian-cuisine' with 0.71 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.363478",
+            "offer_id": "305057",
+            "offer_title": "Al Hadheerah - Bab Al Shams",
+            "total_merchant_tags": 12,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "live-entertainment",
+                    "merchant_tag": "live-entertainment",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "large-group-friendly",
+                "fine-dining",
+                "average-pricing",
+                "booking-and-reservations",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "barbeque",
+                "halal",
+                "highchair-available",
+                "live-cooking",
+                "validated-parking",
+                "seafood",
+                "dinner",
+                "live-music",
+                "vegan",
+                "gluten-free",
+                "vegetarian-friendly"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 0,
+                "exact_match_percentage": 6.666666666666667,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.06666666666666667
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'live-entertainment'"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.371544",
+            "offer_id": "25465",
+            "offer_title": "Feta Restaurant - Jannah Marina Hotel Apartments",
+            "total_merchant_tags": 8,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "large-group-friendly",
+                    "merchant_tag": "large-group-friendly",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "average-pricing",
+                    "merchant_tag": "average-pricing",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "buffet",
+                    "merchant_tag": "buffet",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "arabian-cuisine",
+                    "similarity_score": 0.8
+                },
+                {
+                    "user_tag": "european-cuisine",
+                    "merchant_tag": "arabian-cuisine",
+                    "similarity_score": 0.7096774193548387
+                }
+            ],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "fine-dining",
+                "booking-and-reservations",
+                "international-cuisine",
+                "fast-food",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "middle-eastern-cuisine",
+                "valet-parking",
+                "breakfast",
+                "delivery-services"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 3,
+                "partial_match_count": 2,
+                "exact_match_percentage": 20.0,
+                "partial_match_percentage": 13.333333333333334,
+                "overall_match_score": 0.29333333333333333
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'large-group-friendly', 'average-pricing', 'buffet'; Partial tag matches: 'italian-cuisine' (similar to 'arabian-cuisine' with 0.80 similarity), 'european-cuisine' (similar to 'arabian-cuisine' with 0.71 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.377616",
+            "offer_id": "92159",
+            "offer_title": "Day And Night Restaurant - Mercure Hotel Barsha Heights",
+            "total_merchant_tags": 12,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "outdoor-seating",
+                    "merchant_tag": "outdoor-seating",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "large-group-friendly",
+                    "merchant_tag": "large-group-friendly",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "booking-and-reservations",
+                    "merchant_tag": "booking-and-reservations",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "international-cuisine",
+                    "merchant_tag": "international-cuisine",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "buffet",
+                    "merchant_tag": "buffet",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "european-cuisine",
+                    "merchant_tag": "european-cuisine",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [],
+            "unmatched_user_tags": [
+                "caf\u00e9",
+                "live-entertainment",
+                "fine-dining",
+                "average-pricing",
+                "fast-food",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "hookah",
+                "premium",
+                "modern-design",
+                "serves-alcohol-full-bar",
+                "valet-parking",
+                "delivery-services"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 6,
+                "partial_match_count": 0,
+                "exact_match_percentage": 40.0,
+                "partial_match_percentage": 0.0,
+                "overall_match_score": 0.4
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'outdoor-seating', 'large-group-friendly', 'booking-and-reservations', 'international-cuisine', 'buffet', 'european-cuisine'"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.383089",
+            "offer_id": "25479",
+            "offer_title": "Feta Restaurant - Edge Creekside Hotel",
+            "total_merchant_tags": 9,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "outdoor-seating",
+                    "merchant_tag": "outdoor-seating",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "large-group-friendly",
+                    "merchant_tag": "large-group-friendly",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "average-pricing",
+                    "merchant_tag": "average-pricing",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "booking-and-reservations",
+                    "merchant_tag": "booking-and-reservations",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "international-cuisine",
+                    "merchant_tag": "mediterranean-cuisine",
+                    "similarity_score": 0.7142857142857143
+                },
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "mediterranean-cuisine",
+                    "similarity_score": 0.7222222222222222
+                },
+                {
+                    "user_tag": "european-cuisine",
+                    "merchant_tag": "mediterranean-cuisine",
+                    "similarity_score": 0.7027027027027027
+                }
+            ],
+            "unmatched_user_tags": [
+                "caf\u00e9",
+                "live-entertainment",
+                "fine-dining",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "modern-design",
+                "wifi",
+                "breakfast",
+                "delivery-services"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 4,
+                "partial_match_count": 3,
+                "exact_match_percentage": 26.666666666666668,
+                "partial_match_percentage": 20.0,
+                "overall_match_score": 0.4066666666666666
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'outdoor-seating', 'large-group-friendly', 'average-pricing', 'booking-and-reservations'; Partial tag matches: 'international-cuisine' (similar to 'mediterranean-cuisine' with 0.71 similarity), 'italian-cuisine' (similar to 'mediterranean-cuisine' with 0.72 similarity), 'european-cuisine' (similar to 'mediterranean-cuisine' with 0.70 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.386714",
+            "offer_id": "319834",
+            "offer_title": "Al Farah Gourmet",
+            "total_merchant_tags": 9,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "booking-and-reservations",
+                    "merchant_tag": "booking-and-reservations",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "arabian-cuisine",
+                    "similarity_score": 0.8
+                },
+                {
+                    "user_tag": "european-cuisine",
+                    "merchant_tag": "arabian-cuisine",
+                    "similarity_score": 0.7096774193548387
+                }
+            ],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "large-group-friendly",
+                "fine-dining",
+                "average-pricing",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "hookah",
+                "ethnic-design",
+                "luxury",
+                "middle-eastern-cuisine",
+                "valet-parking",
+                "wifi",
+                "delivery-services"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 1,
+                "partial_match_count": 2,
+                "exact_match_percentage": 6.666666666666667,
+                "partial_match_percentage": 13.333333333333334,
+                "overall_match_score": 0.16
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'booking-and-reservations'; Partial tag matches: 'italian-cuisine' (similar to 'arabian-cuisine' with 0.80 similarity), 'european-cuisine' (similar to 'arabian-cuisine' with 0.71 similarity)"
+        },
+        {
+            "user_name": "wael",
+            "query": "suggest me some dining options in dubai",
+            "query_category": "preferredtags_dining",
+            "timestamp": "2025-05-02T13:36:37.393089",
+            "offer_id": "90210",
+            "offer_title": "Narrah Restaurant - Carlton Dubai Creek Hotel",
+            "total_merchant_tags": 6,
+            "total_user_tags": 15,
+            "exact_matches": [
+                {
+                    "user_tag": "large-group-friendly",
+                    "merchant_tag": "large-group-friendly",
+                    "similarity_score": 1.0
+                },
+                {
+                    "user_tag": "average-pricing",
+                    "merchant_tag": "average-pricing",
+                    "similarity_score": 1.0
+                }
+            ],
+            "partial_matches": [
+                {
+                    "user_tag": "italian-cuisine",
+                    "merchant_tag": "lebanese-cuisine",
+                    "similarity_score": 0.7096774193548387
+                }
+            ],
+            "unmatched_user_tags": [
+                "outdoor-seating",
+                "caf\u00e9",
+                "live-entertainment",
+                "fine-dining",
+                "booking-and-reservations",
+                "international-cuisine",
+                "fast-food",
+                "buffet",
+                "brunch",
+                "italian-cuisine",
+                "pasta",
+                "european-cuisine",
+                "pizza"
+            ],
+            "unmatched_merchant_tags": [
+                "modern-design",
+                "online-order",
+                "delivery-services"
+            ],
+            "matching_metrics": {
+                "exact_match_count": 2,
+                "partial_match_count": 1,
+                "exact_match_percentage": 13.333333333333334,
+                "partial_match_percentage": 6.666666666666667,
+                "overall_match_score": 0.18000000000000002
+            },
+            "match_explanation": "This offer was recommended because of: Exact tag matches: 'large-group-friendly', 'average-pricing'; Partial tag matches: 'italian-cuisine' (similar to 'lebanese-cuisine' with 0.71 similarity)"
+        }
+    ]
+}
